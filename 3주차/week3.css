@@ -7,6 +7,7 @@ button{
     border: 5px solid palevioletred;
 }
 
+/* 커서를 올리면 색이 바뀌는 버튼. hover */
 button:hover{
     background-color: palegoldenrod;
     font-size: 20pt;
@@ -18,6 +19,7 @@ button[color="orange"]{
     color: yellow;
 }
 
+/* 커서를 올리면 색이 바뀌는 버튼. hover */
 button[color="orange"]:hover {
     background-color: lightcoral;
     color: blueviolet;
